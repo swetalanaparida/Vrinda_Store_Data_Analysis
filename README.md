@@ -6,6 +6,9 @@ This project analyzes the sales and operational data of "Vrinda Store" to uncove
 ## 📄 File
 - **Vrinda Store Data Analysis.xlsx**: Contains the cleaned data, analysis, and visualizations.
 
+## 🛠️ Tools Used
+- Microsoft Excel
+
 ## 📈 Insights
 - **Gender Insights**: Women contribute more to purchases (~65%) compared to men.
 - **Top States**: Maharashtra, Karnataka, and Uttar Pradesh account for ~35% of the sales.
@@ -15,5 +18,4 @@ This project analyzes the sales and operational data of "Vrinda Store" to uncove
 ## Final Conclusion to Improve Vrinda store sales:
 - Focus on reaching **Women** (**30–49** years old) in **Maharashtra, Karnataka, and Uttar Pradesh** by offering exciting deals through **Amazon, Flipkart, and Myntra**.
 
-## 🛠️ Tools Used
-- Microsoft Excel
+
